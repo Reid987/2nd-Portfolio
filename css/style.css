@@ -1,0 +1,21 @@
+body{
+    background: #ff5757;
+background: linear-gradient(90deg, rgba(255, 87, 87, 1) 0%, rgba(255, 166, 166, 1) 0%, rgba(255, 228, 168, 1) 50%, rgba(254, 255, 184, 1) 100%);
+}
+.text-center{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:10px;
+    padding: 10px;
+    background-color: #ff4747;
+    border-radius: 50%;
+}
+.btn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
